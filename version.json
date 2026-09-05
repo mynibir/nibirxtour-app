@@ -1,7 +1,7 @@
 {
   "version": "4.1.1",
-  "buildNumber": 14,
-  "apkUrl": "https://github.com/mynibir/nibirxtour-app/releases/download/NibirXTour/NibirXTour.apk",
+  "buildNumber": 15,
+    "apkUrl": "https://github.com/mynibir/nibirxtour-app/releases/download/NibirXTour/NibirXTour.apk",
   "forceUpdate": false,
   "releaseNotes": "Latest NibirXTour update is available."
 }

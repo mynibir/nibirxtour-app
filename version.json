@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "buildNumber": 2,
+  "version": "1.0.2",
+  "buildNumber": 3,
   "apkUrl": "https://github.com/mynibir/nibirxtour-app/releases/download/NibirXTour/NSTourZone.apk",
   "forceUpdate": false,
-  "releaseNotes": "Initial NS Tour Zone release."
+  "releaseNotes": "Initial NS Tour Zone release. Coming soon"
 }

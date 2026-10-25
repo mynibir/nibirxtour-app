@@ -2,6 +2,6 @@
   "version": "1.0.2",
   "buildNumber": 3,
   "apkUrl": "https://github.com/mynibir/nibirxtour-app/releases/download/NibirXTour/NSTourZone.apk",
-  "forceUpdate": true,
-  "releaseNotes": "App is under maintenance. please wait and stay with us."
+  "forceUpdate": false,
+  "releaseNotes": "App is under maintenance. please wait and stay with us. And dont click on download and install because we are updating the app."
 }

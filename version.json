@@ -4,6 +4,6 @@
   "apkUrl": "https://github.com/mynibir/nibirxtour-app/releases/download/NibirXTour/NSTourZone.apk",
   "forceUpdate": false,
   "isRunning": true,
-  "disabledNote": "We are working to update the app.",
+  "disabledNote": "",
   "releaseNotes": "Initializing NS Tour Zone 2.0."
 }
